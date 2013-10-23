@@ -17,26 +17,26 @@ Documentation
 -------------
 
 - [API Reference](http://godoc.org/github.com/garyburd/redigo/redis)
-- [FAQ](https://github.com/garyburd/redigo/wiki/FAQ)
+- [FAQ](https://github.com/brandscreen/redigo/wiki/FAQ)
 
 Installation
 ------------
 
 Install Redigo using the "go get" command:
 
-    go get github.com/garyburd/redigo/redis
+    go get github.com/brandscreen/redigo/redis
 
 The Go distribution is Redigo's only dependency.
 
 Contributing
 ------------
 
-Contributions are welcome. 
+Contributions are welcome.
 
 Before writing code, send mail to gary@beagledreams.com to discuss what you
 plan to do. This gives me a chance to validate the design, avoid duplication of
 effort and ensure that the changes fit the goals of the project. Do not start
-the discussion with a pull request. 
+the discussion with a pull request.
 
 License
 -------

@@ -15,7 +15,7 @@
 package redisx_test
 
 import (
-	"github.com/garyburd/redigo/redisx"
+	"github.com/brandscreen/redigo/redisx"
 	"reflect"
 	"testing"
 )

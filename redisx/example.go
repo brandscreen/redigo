@@ -17,8 +17,8 @@
 package main
 
 import (
-	"github.com/garyburd/redigo/redis"
-	"github.com/garyburd/redigo/redisx"
+	"github.com/brandscreen/redigo/redis"
+	"github.com/brandscreen/redigo/redisx"
 	"log"
 )
 
